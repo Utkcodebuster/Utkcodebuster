@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Utkcodebuster
-- 👀 I’m interested in Full stack development and Cyber Security
-- 🌱 I’m currently learning Java programming and Cyber Security
+- 👀 I’m interested in Full stack development and Software Development
+- 🌱 I’m currently learning Java and Python.
 
 
 <!---
