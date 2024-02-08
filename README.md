@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Utkcodebuster
 - 👀 I’m interested in Full stack development and Software Development
-- 🌱 I’m currently learning Java and Python.
+- 🌱 I’m currently exploring MERN.
 
 
 <!---
